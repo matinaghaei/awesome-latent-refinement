@@ -6,6 +6,10 @@
 [![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/matinaghaei/awesome-latent-refinement/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/matinaghaei/awesome-latent-refinement/blob/main/CONTRIBUTING.md)
 
+<p>
+  <img src="cover.jpg" width="700"/>
+</p>
+
 > A curated list of resources on **latent iterative reasoning and planning**.
 
 ⭐ If you find this useful, please consider giving the repo a star!
