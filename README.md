@@ -1,16 +1,24 @@
-# 🧬 Awesome Latent Refinement
-### *Iterative Reasoning & Planning in Latent Space*
+<h1 align="center">🧬 Awesome Latent Refinement</h1>
+<h3 align="center"><em>Research on Iterative Reasoning & Planning in Latent Space</em></h3>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/matinaghaei/awesome-latent-refinement.svg?style=social&label=Star)](https://github.com/matinaghaei/awesome-latent-refinement/stargazers)
-[![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/matinaghaei/awesome-latent-refinement/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/matinaghaei/awesome-latent-refinement/blob/main/CONTRIBUTING.md)
-
-<p>
-  <img src="cover.jpg" width="700"/>
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg"/>
+  </a>
+  <a href="https://github.com/matinaghaei/awesome-latent-refinement/stargazers">
+    <img src="https://img.shields.io/github/stars/matinaghaei/awesome-latent-refinement.svg?style=social&label=Star"/>
+  </a>
+  <a href="https://github.com/matinaghaei/awesome-latent-refinement/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg"/>
+  </a>
+  <a href="https://github.com/matinaghaei/awesome-latent-refinement/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg"/>
+  </a>
 </p>
 
-> A curated list of resources on **latent iterative reasoning and planning**.
+<p align="center">
+  <img src="cover.jpg" width="700"/>
+</p>
 
 ⭐ If you find this useful, please consider giving the repo a star!
 
