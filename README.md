@@ -2,9 +2,9 @@
 <h3 align="center"><em>Iterative Reasoning & Planning in Latent Space</em></h3>
 
 <p align="center">
-  <a href="https://awesome.re">
+  <!-- <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg"/>
-  </a>
+  </a> -->
   <a href="https://github.com/matinaghaei/awesome-latent-refinement/stargazers">
     <img src="https://img.shields.io/github/stars/matinaghaei/awesome-latent-refinement.svg?style=social&label=Star"/>
   </a>
