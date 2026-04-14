@@ -22,16 +22,6 @@ New sections or subsections should be added only if they are clearly aligned wit
 
 Do not add new sections for loosely related areas.
 
-## 🗂️ Section Rules
-
-Add papers to exactly one of these sections:
-
-- **Supervised Latent Refinement**
-  - **Dedicated Reasoners**
-  - **Language Models**
-- **Reinforcement-Learned Latent Refinement**
-  - **Model-Free Planning**
-
 ## 🔒 Inclusion Criteria
 
 A paper should be added only if it satisfies all of the following:
@@ -55,7 +45,7 @@ Within each subsection, papers should be ordered **chronologically**, from older
 
 ## 📝 Guidelines
 
-- Prefer **arXiv abstract links** over PDF links
+- Prefer **arXiv abstract links** over conference, journal, or PDF links whenever available
 - Use **OpenReview** when relevant
 - Include all available resources when possible
 - Use a **short title** only if the paper, or its main proposed method, has a recognizable short title
