@@ -63,6 +63,8 @@ Models that learn to perform **iterative updates over latent state** for reasoni
 
 ### 🧠 Dedicated Reasoners
 
+Architectures explicitly designed to perform reasoning through iterative latent-state updates.
+
 - **HRM**: "Hierarchical Reasoning Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.21734-b31b1b.svg)](https://arxiv.org/abs/2506.21734) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/sapientinc/HRM)
 
 - **TRM**: "Less is More: Recursive Reasoning with Tiny Networks". [![arXiv](https://img.shields.io/badge/arXiv-2510.04871-b31b1b.svg)](https://arxiv.org/abs/2510.04871) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
@@ -76,6 +78,8 @@ Models that learn to perform **iterative updates over latent state** for reasoni
   Generalizes recursive latent-state updates into a broader inference-machine framework for neural reasoning.
 
 ### 🔁 Looped Language Models
+
+Language models that reuse internal computation (e.g., via loops or recurrent depth) to iteratively refine latent representations.
 
 - **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**. [![arXiv](https://img.shields.io/badge/arXiv-2502.05171-b31b1b.svg)](https://arxiv.org/abs/2502.05171) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/seal-rg/recurrent-pretraining)
 
@@ -112,6 +116,8 @@ Agents that develop **iterative latent computation** through interaction and rew
 
 ### 🗺️ Model-Free Planning
 
+Recurrent agents that exhibit planning-like behavior through internal latent computation without explicit world models.
+
 - **An Investigation of Model-Free Planning**. [![arXiv](https://img.shields.io/badge/arXiv-1901.00137-b31b1b.svg)](https://arxiv.org/abs/1901.00137) [![Code](https://img.shields.io/badge/Code-Boxoban-green.svg)](https://github.com/google-deepmind/boxoban-levels)
 
 - **Planning in a recurrent neural network that plays Sokoban**. [![arXiv](https://img.shields.io/badge/arXiv-2407.15421-b31b1b.svg)](https://arxiv.org/abs/2407.15421) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=ORxjH9kTp8) [![Code](https://img.shields.io/badge/Code-Analysis-green.svg)](https://github.com/AlignmentResearch/learned-planner) [![Code](https://img.shields.io/badge/Code-Training-green.svg)](https://github.com/AlignmentResearch/train-learned-planner)
@@ -120,9 +126,13 @@ Agents that develop **iterative latent computation** through interaction and rew
 
 ### ♻️ Recurrent Reasoning Agents
 
+Agents trained with reinforcement learning that develop reusable latent reasoning dynamics across environment interactions.
+
 - **HRM-Agent**: "HRM-Agent: Training a recurrent reasoning model in dynamic environments using reinforcement learning". [![arXiv](https://img.shields.io/badge/arXiv-2510.22832-b31b1b.svg)](https://arxiv.org/abs/2510.22832)
 
 ### ⏱️ Compute in RL
+
+Work studying how increased internal computation improves reinforcement learning performance and generalization.
 
 - **On the Role of Iterative Computation in Reinforcement Learning**. [![arXiv](https://img.shields.io/badge/arXiv-2602.05999-b31b1b.svg)](https://arxiv.org/abs/2602.05999) [![Website](https://img.shields.io/badge/Website-Link-blue.svg)](https://rajghugare19.github.io/computation-rl/index.html)
 
