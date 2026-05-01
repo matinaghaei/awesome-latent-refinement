@@ -145,7 +145,7 @@ Agents that develop **iterative latent computation** through interaction and rew
 
 Recurrent agents that exhibit planning-like behavior through internal latent computation without explicit world models.
 
-- **An Investigation of Model-Free Planning**. [![arXiv](https://img.shields.io/badge/arXiv-1901.00137-b31b1b.svg)](https://arxiv.org/abs/1901.00137) [![Code](https://img.shields.io/badge/Code-Boxoban-green.svg)](https://github.com/google-deepmind/boxoban-levels)
+- **An Investigation of Model-Free Planning**. [![arXiv](https://img.shields.io/badge/arXiv-1901.03559-b31b1b.svg)](https://arxiv.org/abs/1901.03559) [![Code](https://img.shields.io/badge/Code-Boxoban-green.svg)](https://github.com/google-deepmind/boxoban-levels)
 
 - **Planning in a recurrent neural network that plays Sokoban**. [![arXiv](https://img.shields.io/badge/arXiv-2407.15421-b31b1b.svg)](https://arxiv.org/abs/2407.15421) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=ORxjH9kTp8) [![Code](https://img.shields.io/badge/Code-Analysis-green.svg)](https://github.com/AlignmentResearch/learned-planner) [![Code](https://img.shields.io/badge/Code-Training-green.svg)](https://github.com/AlignmentResearch/train-learned-planner)
 
