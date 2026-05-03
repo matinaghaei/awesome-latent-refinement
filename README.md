@@ -151,6 +151,8 @@ Recurrent agents that exhibit planning-like behavior through internal latent com
 
 - **Interpreting Emergent Planning in Model-Free Reinforcement Learning**. [![arXiv](https://img.shields.io/badge/arXiv-2504.01871-b31b1b.svg)](https://arxiv.org/abs/2504.01871) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=DzGe40glxs) [![Website](https://img.shields.io/badge/Website-Link-blue.svg)](https://tuphs28.github.io/projects/interpplanning/) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/tuphs28/emergent-planning/tree/main)
 
+- **Path Channels and Plan Extension Kernels: a Mechanistic Description of Planning in a Sokoban RNN**. [![arXiv](https://img.shields.io/badge/arXiv-2506.10138-b31b1b.svg)](https://arxiv.org/abs/2506.10138) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=aAshH4kQ1v)
+
 ### ♻️ Recurrent Reasoning Agents
 
 Agents trained with reinforcement learning that develop reusable latent reasoning dynamics across environment interactions.
