@@ -1,8 +1,17 @@
 # 🤝 Contributing
 
-Contributions are welcome.
+Thanks for your interest in improving this list!
 
-If you would like to add a paper, please open a pull request or issue.
+Contributions are welcome in many forms:
+
+- adding missing papers or projects
+- fixing broken links
+- improving paper metadata
+- suggesting better categorization
+- clarifying inclusion boundaries
+- improving descriptions or formatting
+
+If you are unsure whether a paper fits, feel free to open an issue first. The goal is to keep the list focused while making it easy for people to suggest relevant work.
 
 ## ➕ Adding New Papers
 
