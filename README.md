@@ -40,6 +40,7 @@
   - [♻️ Recurrent Reasoning Agents](#-recurrent-reasoning-agents)
   - [⏱️ Compute in RL](#-compute-in-rl)
 - [🔒 Inclusion Criteria](#-inclusion-criteria)
+- [🔗 Related Awesome Lists](#-related-awesome-lists)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 
@@ -181,6 +182,19 @@ A paper is included only if it satisfies all of the following:
 1. **Iterative refinement of latent state** at inference time
 2. **Shared or recurrent computation** across refinement steps
 3. **Performance improves with additional internal compute**
+
+---
+
+## 🔗 Related Awesome Lists
+
+Neighboring curated lists and resources on latent reasoning, implicit reasoning, efficient reasoning, and inference-time computation.
+
+- [Awesome Latent CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT) - Curated resources on latent chain-of-thought reasoning.
+- [Awesome LLM Implicit Reasoning](https://github.com/digailab/awesome-llm-implicit-reasoning) - Papers and resources on implicit reasoning in language models.
+- [Awesome Efficient Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning) - Efficient reasoning methods and inference-time scaling techniques.
+- [Awesome Inference-Time Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) - Research on inference-time and test-time scaling.
+- [Awesome Latent Space](https://github.com/YU-deep/Awesome-Latent-Space) - Broad collection of work on latent-space methods across modalities.
+- [Awesome World Models](https://github.com/knightnemo/Awesome-World-Models) - Curated research on world models and latent dynamics.
 
 ---
 
