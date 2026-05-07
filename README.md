@@ -6,7 +6,7 @@
     <img src="https://awesome.re/badge.svg"/>
   </a>
   <a href="https://github.com/matinaghaei/awesome-latent-refinement/stargazers">
-    <img src="https://img.shields.io/github/stars/matinaghaei/awesome-latent-refinement.svg?style=social&label=Star"/>
+    <img src="https://img.shields.io/github/stars/matinaghaei/awesome-latent-refinement.svg"/>
   </a>
   <a href="https://github.com/matinaghaei/awesome-latent-refinement/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg"/>
