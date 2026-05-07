@@ -212,7 +212,19 @@ Neighboring curated lists and resources on latent reasoning, implicit reasoning,
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
+Contributions are very welcome!
+
+If you know of a paper, project, implementation, or related resource that fits the scope of this repository, feel free to open a pull request or issue.
+
+This list is intended to stay focused, so suggested additions should match the core idea:
+
+1. **Iterative refinement of latent state** at inference time
+2. **Shared or recurrent computation** across refinement steps
+3. **Performance improves with additional inference-time compute**
+
+If you are unsure whether something belongs, opening an issue for discussion is completely fine.
+
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for formatting guidelines.
 
 ---
 
