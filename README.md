@@ -67,6 +67,8 @@ Models that learn to perform **iterative updates over latent state** for reasoni
 
 Architectures explicitly designed to perform reasoning through iterative latent-state updates.
 
+- **End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking**. [![arXiv](https://img.shields.io/badge/arXiv-2202.05826-b31b1b.svg)](https://arxiv.org/abs/2202.05826) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/aks2203/deep-thinking)
+
 - **HRM**: "Hierarchical Reasoning Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.21734-b31b1b.svg)](https://arxiv.org/abs/2506.21734) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/sapientinc/HRM)
 
 - **TRM**: "Less is More: Recursive Reasoning with Tiny Networks". [![arXiv](https://img.shields.io/badge/arXiv-2510.04871-b31b1b.svg)](https://arxiv.org/abs/2510.04871) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
@@ -102,6 +104,8 @@ Language models that reuse internal computation (e.g., via loops or recurrent de
 - **PLT**: "Parallel Loop Transformer (PLT) for Efficient Test-Time Computation Scaling". [![arXiv](https://img.shields.io/badge/arXiv-2510.24824-b31b1b.svg)](https://arxiv.org/abs/2510.24824)
 
 - **Ouro**: "Scaling Latent Reasoning via Looped Language Models". [![arXiv](https://img.shields.io/badge/arXiv-2510.25741-b31b1b.svg)](https://arxiv.org/abs/2510.25741) [![Website](https://img.shields.io/badge/Website-Link-blue.svg)](https://ouro-llm.github.io/) [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow.svg)](https://huggingface.co/collections/ByteDance/ouro)
+
+- **Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence**. [![arXiv](https://img.shields.io/badge/arXiv-2511.07384-b31b1b.svg)](https://arxiv.org/abs/2511.07384) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/mcleish7/retrofitting-recurrence) [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow.svg)](https://huggingface.co/collections/tomg-group-umd/retrofitting-recurrence)
 
 - **Think-at-Hard**: "Selective Latent Iterations to Improve Reasoning Language Models". [![arXiv](https://img.shields.io/badge/arXiv-2511.08577-b31b1b.svg)](https://arxiv.org/abs/2511.08577) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/thu-nics/TaH)
 
