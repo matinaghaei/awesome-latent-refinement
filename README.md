@@ -67,7 +67,9 @@ Models that learn to perform **iterative updates over latent state** for reasoni
 
 Architectures explicitly designed to perform reasoning through iterative latent-state updates.
 
-- **End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking**. [![arXiv](https://img.shields.io/badge/arXiv-2202.05826-b31b1b.svg)](https://arxiv.org/abs/2202.05826) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/aks2203/deep-thinking)
+- **Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks**. [![arXiv](https://img.shields.io/badge/arXiv-2106.04537-b31b1b.svg)](https://arxiv.org/abs/2106.04537) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=Tsp2PL7-GQ) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/aks2203/deep-thinking)
+
+- **End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking**. [![arXiv](https://img.shields.io/badge/arXiv-2202.05826-b31b1b.svg)](https://arxiv.org/abs/2202.05826) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=PPjSKy40XUB) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/aks2203/deep-thinking)
 
 - **HRM**: "Hierarchical Reasoning Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.21734-b31b1b.svg)](https://arxiv.org/abs/2506.21734) [![Code](https://img.shields.io/badge/Code-GitHub-green.svg)](https://github.com/sapientinc/HRM)
 
